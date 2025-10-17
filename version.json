@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "release_date": "2025-10-17",
+  "changelog": [
+    "Initial release",
+    "Business hours countdown timer",
+    "Holiday support",
+    "Multiple sensor entities",
+    "Real-time updates"
+  ]
+}

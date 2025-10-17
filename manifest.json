@@ -1,0 +1,14 @@
+{
+  "domain": "custom_countdown_timer",
+  "name": "Custom Countdown Timer",
+  "version": "1.0.0",
+  "documentation": "https://github.com/yourusername/custom_countdown_timer",
+  "issue_tracker": "https://github.com/yourusername/custom_countdown_timer/issues",
+  "dependencies": [],
+  "codeowners": [
+    "@yourusername"
+  ],
+  "requirements": [],
+  "config_flow": true,
+  "iot_class": "calculated"
+}
