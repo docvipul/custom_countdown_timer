@@ -11,10 +11,10 @@ manifest = {
     "domain": "custom_countdown_timer",
     "name": "Custom Countdown Timer",
     "version": "1.0.0",
-    "documentation": "https://github.com/yourusername/custom_countdown_timer",
-    "issue_tracker": "https://github.com/yourusername/custom_countdown_timer/issues",
+    "documentation": "https://github.com/docvipul/custom_countdown_timer",
+    "issue_tracker": "https://github.com/docvipul/custom_countdown_timer/issues",
     "dependencies": [],
-    "codeowners": ["@yourusername"],
+    "codeowners": ["@docvipul"],
     "requirements": [],
     "config_flow": True,
     "iot_class": "calculated"
